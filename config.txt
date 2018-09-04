@@ -1,0 +1,3 @@
+RunAutomatically: false
+PosList: C:\Users\jzamojcin.WESCO_NT\eclipse-workspace\PositiveLogReader\PosList.txt
+OutputDirectory: C:\Users\jzamojcin.WESCO_NT\eclipse-workspace\PositiveLogReader\output
